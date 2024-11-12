@@ -1,6 +1,6 @@
-Project Name
+Vision Manipur
 Privacy Policy
-Last Updated: [Date]
+Last Updated: 11/12/2024
 
 Your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our app or website.
 
@@ -32,7 +32,7 @@ You have the right to:
 Access Your Data: Request a copy of the personal data we hold about you.
 Update Your Data: Correct any inaccuracies in your data.
 Delete Your Data: Request the deletion of your personal data under certain conditions.
-To exercise these rights, please contact us at [your contact information].
+To exercise these rights, please contact us at 7005047287.
 
 6. Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page. Please review this policy periodically for updates.
@@ -40,5 +40,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 7. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
-Email: [your email address]
-Address: [your physical or company address]
+Email: visionmanipur@gmail.com
+Address: Kakwa Kha Naorem Leikai, Imphal, Manipur - India
