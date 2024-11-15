@@ -9,7 +9,7 @@ We collect information to provide better services to our users. The types of inf
 
 Personal Information: Information you provide us, such as your name, email address, or phone number, when creating an account or contacting support.
 Usage Data: Information automatically collected when using the app, including but not limited to your IP address, device information, and browsing behavior.
-Location Data: (Optional) We may collect your location data to enhance specific features of our service, provided you give us permission.
+
 2. How We Use Your Information
 We may use the collected information in the following ways:
 
@@ -40,5 +40,5 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 7. Contact Us
 If you have any questions about this Privacy Policy, please contact us at:
 
-Email: visionmanipur@gmail.com
+Email: sagolsemarvind4@gmail.com
 Address: Kakwa Kha Naorem Leikai, Imphal, Manipur - India
